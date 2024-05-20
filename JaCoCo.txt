@@ -1,7 +1,5 @@
 Java Code Coverage:
 
-SonarQube Exclussions:
-
 <properties>
     <!--Eliminating some classes in Junit Remote code Coverage[SonarQube]-->
        <sonar.exclusions>**/com/in/TestApplication.class</sonar.exclusions>
